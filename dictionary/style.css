@@ -54,3 +54,22 @@ button{
     padding: 20px 20xp;
     cursor: pointer;
 }
+section.data{
+    max-width: 440px;
+    margin: 0 auto;
+    margin-top: 20px;
+    text-align: center;
+}
+.loading{
+    display: none;
+}
+section.data p.def{
+    font-size: 20px;
+    color: #2D3748;
+    line-height: 1.6;
+}
+audio{
+    border: 2px solid purple;
+    margin: 10px;
+    border-radius: 20px;
+}
