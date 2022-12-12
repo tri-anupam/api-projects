@@ -17,7 +17,9 @@ h1{
 }
 a{
     display: block;
+    /* border: 1px solid red; */
     line-height: 40px;
+    width: max-content;
     text-decoration: none;
     transition: 0.5s;
 }
