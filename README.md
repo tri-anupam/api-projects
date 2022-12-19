@@ -17,6 +17,11 @@ https://tri-anupam.github.io/api-projects/
 - Country Guide App
 - Meme App
 
+## Technology Used
+- HTML
+- CSS
+- JavaScript
+
 ## Guider's
 - Coding Artist (YT)
 - Coder's Gyan (YT)
